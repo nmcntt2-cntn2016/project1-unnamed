@@ -23,15 +23,15 @@
   </tr>
 </table>
 # TÊN ĐỀ TÀI <br />
-**Nhóm đang làm một trang web với tính năng: **
+1. Nhóm đang làm một trang web với tính năng:
 * Tính năng 1
 * Tính năng 2
 * Tính năng 3 <br />
-**Nó sẽ giải quyết được các vấn đề như là:** 
+1. Nó sẽ giải quyết được các vấn đề như là:** 
 * Vấn đề 1
 * Vấn đề 2
 * Vấn đề 3 <br />
-**Để làm thành một sản phẩm hoàn chỉnh nhóm cần:**
+1. Để làm thành một sản phẩm hoàn chỉnh nhóm cần:
 * Cần 1
 * Cần 2
 * Cần 3 <br />

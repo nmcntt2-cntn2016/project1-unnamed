@@ -24,14 +24,14 @@
 </table>
 # TÊN ĐỀ TÀI <br />
 1. Nhóm đang làm một trang web với tính năng:
-* Tính năng 1
-* Tính năng 2
-* Tính năng 3 <br />
-1. Nó sẽ giải quyết được các vấn đề như là:** 
-* Vấn đề 1
-* Vấn đề 2
-* Vấn đề 3 <br />
+	* Tính năng 1
+	* Tính năng 2
+	* Tính năng 3 <br />
+1. Nó sẽ giải quyết được các vấn đề như là:
+	* Vấn đề 1
+	* Vấn đề 2
+	* Vấn đề 3 <br />
 1. Để làm thành một sản phẩm hoàn chỉnh nhóm cần:
-* Cần 1
-* Cần 2
-* Cần 3 <br />
+	* Cần 1
+	* Cần 2
+	* Cần 3 <br />

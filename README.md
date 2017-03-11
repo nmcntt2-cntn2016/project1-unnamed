@@ -29,8 +29,9 @@
  * Kèm theo đó là một diễn đàn về hóa học để các thành viên có thể trao đổi kinh nghiệm học tập và bài tập.
 
 ## Tính năng :
- * Tìm kiếm các phương trình hóa học, hiển thị các trường hợp riêng của từng phương trình.
- * Tìm kiếm thông tin của một chất nhất định
+ * Tìm kiếm các phương trình hóa học.
+ * Trình bày các hiện tượng, đặc điểm của thí nghiệm.
+ * Tìm kiếm thông tin của một chất nhất định.
  * Tự động cân bằng/ chỉnh sửa hệ số của phương trình được nhập vào.
 
 ## Cách thực hiện :

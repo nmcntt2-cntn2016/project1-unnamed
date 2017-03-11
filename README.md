@@ -23,7 +23,7 @@
 	    <td>Nguyễn Thị Tình</td>
 	  </tr>
 	</table>
-# ChemLab <br />
+# ChemLab - Trang web mô tả thí nghiệm hóa học<br />
 ## Mục đích :
  * Mô tả các thí nghiệm hóa học bằng hình ảnh.
  * Nhằm tạo điều kiện thuận lợi cho học sinh/ sinh viên/ giáo viên trong quá trình học tập, giảng dạy để tra cứu và xử lí các vấn đề liên quan đến phương trình hóa học, các chất hóa học.

@@ -22,6 +22,16 @@
     <td>Nguyễn Thị Tình</td>
   </tr>
 </table>
-</b> Nhóm đang làm một trang web với tính năng ................ </b>
-</b> Nó sẽ giải quyết được các vấn đề như là: .................</b>
-</b> Để làm thành một sản phẩm hoàn chỉnh nhóm cần ................</b>
+# TÊN ĐỀ TÀI
+**Nhóm đang làm một trang web với tính năng: **
+* Tính năng 1
+* Tính năng 2
+* Tính năng 3
+**Nó sẽ giải quyết được các vấn đề như là:** 
+* Vấn đề 1
+* Vấn đề 2
+* Vấn đề 3
+**Để làm thành một sản phẩm hoàn chỉnh nhóm cần:**
+* Cần 1
+* Cần 2
+* Cần 3

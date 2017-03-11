@@ -25,13 +25,14 @@
 	</table>
 # ChemLab <br />
 ## Mục đích :
+ * Mô tả các thí nghiệm hóa học bằng hình ảnh.
  * Nhằm tạo điều kiện thuận lợi cho học sinh/ sinh viên/ giáo viên trong quá trình học tập, giảng dạy để tra cứu và xử lí các vấn đề liên quan đến phương trình hóa học, các chất hóa học.
  * Tiết kiệm thời gian khi làm việc với các phương trình phức tạp.
  * Kèm theo đó là một diễn đàn về hóa học để các thành viên có thể trao đổi kinh nghiệm học tập và bài tập.
 
 ## Tính năng :
  * Tìm kiếm các phương trình hóa học.
- * Các hiện tượng, đặc điểm của thí nghiệm được hiển thị một cách trực quan thông qua hình ảnh/ video
+ * Các hiện tượng, đặc điểm của thí nghiệm được mô tả một cách trực quan thông qua hình ảnh/ video
  * Tìm kiếm thông tin của một chất nhất định.
  * Tự động cân bằng/ chỉnh sửa hệ số của phương trình được nhập vào.
 

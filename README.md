@@ -24,7 +24,7 @@
 	  </tr>
 	</table>
 # #1. SwiftChem - Trang web mô tả thí nghiệm hóa học<br />
- <img src="http://i.imgur.com/2qymYdl.jpg" align="center">
+ <img src="http://i.imgur.com/aFbfcOb.jpg" align="center">
 ## Mục đích :
  * Nhằm tạo điều kiện thuận lợi cho học sinh/ sinh viên/ giáo viên trong quá trình học tập, giảng dạy để tra cứu và xử lí các vấn đề liên quan đến phương trình hóa học, các chất hóa học.
  * Mô tả các thí nghiệm hóa học bằng hình ảnh.
@@ -43,7 +43,7 @@
  * Sử dụng mã nguồn mở như myBB để xây dựng diễn đàn.
 
 # #2. FA Skipper - Mạng xã hội mai mối
-
+ <img src="http://i.imgur.com/x4gq3NS.jpg" align="center">
 ## Mục đích :
  * Mở rộng mối quan hệ với những người xung quanh mình, để có thể tìm kiếm nửa kia hay chỉ là bạn bè để tâm sự.
 
@@ -52,4 +52,4 @@
  * Xác định vị trí của những user gần đó.
 
 ## Cách thực hiện :
- * Xây dựng app
+ * Xây dựng app trên các nền tảng mobile

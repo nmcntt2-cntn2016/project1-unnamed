@@ -23,7 +23,7 @@
 	    <td>Nguyễn Thị Tình</td>
 	  </tr>
 	</table>
-# ChemLab - Trang web mô tả thí nghiệm hóa học<br />
+# #1. SwiftChem - Trang web mô tả thí nghiệm hóa học<br />
  <img src="http://i.imgur.com/2qymYdl.jpg" align="center">
 ## Mục đích :
  * Nhằm tạo điều kiện thuận lợi cho học sinh/ sinh viên/ giáo viên trong quá trình học tập, giảng dạy để tra cứu và xử lí các vấn đề liên quan đến phương trình hóa học, các chất hóa học.
@@ -42,3 +42,14 @@
  * Kèm theo javascript.
  * Sử dụng mã nguồn mở như myBB để xây dựng diễn đàn.
 
+# #2. FA Skipper - Cộng đồng muốn thoát FA
+
+## Mục đích :
+ * Mở rộng mối quan hệ với những người xung quanh mình, để có thể tìm kiếm nửa kia hay chỉ là bạn bè để tâm sự.
+
+## Tính năng :
+ * Tìm kiếm các user có nhiều điểm chung về sở thích, thói quen ...
+ * Xác định vị trí của những user gần đó.
+
+## Cách thực hiện :
+ * Xây dựng app

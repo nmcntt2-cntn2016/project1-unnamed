@@ -42,7 +42,7 @@
  * Kèm theo javascript.
  * Sử dụng mã nguồn mở như myBB để xây dựng diễn đàn.
 
-# #2. FA Skipper - Cộng đồng muốn thoát FA
+# #2. FA Skipper - Mạng xã hội mai mối
 
 ## Mục đích :
  * Mở rộng mối quan hệ với những người xung quanh mình, để có thể tìm kiếm nửa kia hay chỉ là bạn bè để tâm sự.

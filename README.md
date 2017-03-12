@@ -50,6 +50,8 @@
 ## Tính năng :
  * Tìm kiếm các user có nhiều điểm chung về sở thích, thói quen ...
  * Xác định vị trí của những user gần đó.
-
+ * Cho phép gửi tin nhắn với nhau
+ * Chi phép công khai một số ảnh cá nhân
+ 
 ## Cách thực hiện :
  * Xây dựng app trên các nền tảng mobile

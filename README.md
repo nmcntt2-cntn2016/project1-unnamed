@@ -33,13 +33,12 @@
 
 ## Tính năng :
  * Tìm kiếm các phương trình hóa học.
- * Các hiện tượng, đặc điểm của thí nghiệm được mô tả một cách trực quan thông qua hình ảnh/ video
+ * Các hiện tượng, đặc điểm của thí nghiệm được mô tả một cách trực quan thông qua hình ảnh/ video.
  * Tìm kiếm thông tin của một chất nhất định.
  * Tự động cân bằng/ chỉnh sửa hệ số của phương trình được nhập vào.
 
 ## Cách thực hiện :
- * Sử dụng nền tảng HTML\CSS để xây dựng giao diện trực quan.
- * Kèm theo javascript.
+ * Sử dụng nền tảng HTML\CSS, javascript để xây dựng giao diện trực quan.
  * Sử dụng mã nguồn mở như myBB để xây dựng diễn đàn.
 
 # #2. FA Skipper - Mạng xã hội mai mối
@@ -48,10 +47,10 @@
  * Mở rộng mối quan hệ với những người xung quanh mình, để có thể tìm kiếm nửa kia hay chỉ là bạn bè để tâm sự.
 
 ## Tính năng :
- * Tìm kiếm các user có nhiều điểm chung về sở thích, thói quen ...
+ * Tìm kiếm các user có nhiều điểm chung về sở thích, thói quen, ...
  * Xác định vị trí của những user gần đó.
- * Cho phép gửi tin nhắn với nhau
- * Chi phép công khai một số ảnh cá nhân
+ * Cho phép gửi tin nhắn với nhau.
+ * Cho phép công khai một số ảnh cá nhân.
  
 ## Cách thực hiện :
- * Xây dựng app trên các nền tảng mobile
+ * Xây dựng app trên các nền tảng mobile.

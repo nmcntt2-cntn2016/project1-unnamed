@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>SwiftCHEM</title>
+<style> 
+body  {
+    background-image: url("http://i.imgur.com/AgtsKm8.jpg");
+      background-position: center center;
+background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+
+}
+.buttona {
+    background-color: white;/* Green */
+    border: none;
+    color: #4CAF50;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    display: inline;
+-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+   border: 2px solid #4CAF50;
+   border-radius: 4px;
+}
+.buttona:hover {
+-webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+input[type=text] {
+    width: 500px;
+    height : 50px;
+    box-sizing: border-box;
+    border: 0.5px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    padding: 12px 20px 12px 20px;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+    
+}
+
+input[type=text]:focus {
+    padding: 11px 19px 11px 19px;
+    border: 1.5px solid #2B90F5;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
+}
+/* Tooltip container */
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black; 
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 6px;
+ 
+    position: absolute;
+    z-index: 1;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+</style>
+
+</style>
+  </head>
+  <body>
+	<script>
+        
+	function chuanhoa(raw_st) {
+		var res = "";
+        var i = 0;
+        while (raw_st[i]==" ") i++;
+		for ( i; i<raw_st.length; i++)
+			if ((raw_st[i]==" "||raw_st[i]=="+")&&res[res.length-1]!=" ") res+=" ";
+			else if (raw_st[i]!=" "&&raw_st[i]!="+"&&raw_st[i]!="-"&&raw_st[i]!=">") res+=raw_st[i];
+		if (res[res.length-1]!=" ") res+=" ";
+		return res;
+	}
+	function Click_Search() {
+
+        //MOVING
+        div_move = document.getElementById("search_form");
+        logo_move = document.getElementById("logo");
+        logo2 = document.getElementById("logo2");
+        content = document.getElementById("main_content");
+
+        content.style.display = "block";
+        content.style.position = "absolute";
+        content.style.top = "60px";
+        logo2.style.display = "inline";
+        div_move.style.top = "5px";
+        logo_move.style.display = "none";
+
+        // SEARCHING
+		var st = chuanhoa(document.getElementById("_search").value);
+		var ele = [];
+		var fir = 0;
+		for (i = 0 ; i<st.length; i++)
+			if (st[i]==' ') {
+				ele.push(st.slice(fir,i+1));
+				fir = i+1;
+			}
+		document.getElementById("lk_hc").innerHTML = "Các chất có trong input : " + ele;
+
+	}
+	</script>
+    
+    <div  id="search_form" style="position: absolute; top: 30%; left: 0; right: 0;" >
+        <div id="logo" style = "text-align: center"><img src="http://i.imgur.com/sHgQKoD.png"></div>
+        <div style = "text-align: center">
+             <a href="" onclick="dummy(0);return false;" ><img id="logo2" style= "vertical-align:middle; display: none; width: 200px; height : auto;" src="http://i.imgur.com/sHgQKoD.png"></a>
+            <input type="text" id="_search" placeholder="Fill me !	">
+	        <button class="buttona" onclick="Click_Search()">GO</button>
+        <div>
+    </div>
+    <div id="main_content" style = "display = none; background : white; width: 100%;" >
+	    <p id="lk_hc"></p>
+        <p id="lk_pt"></p>
+    </div>
+  </body>
+	
+</html>

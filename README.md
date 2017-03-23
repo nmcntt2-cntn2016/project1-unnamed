@@ -23,8 +23,11 @@
 	    <td>Nguyễn Thị Tình</td>
 	  </tr>
 	</table>
-# #1. SwiftChem - Trang web mô tả thí nghiệm hóa học<br />
+	
+# #1. SwiftChem - Trang web mô tả thí nghiệm hóa học
+
  <img src="http://i.imgur.com/aFbfcOb.jpg" align="center">
+ 
 ## Mục đích :
  * Nhằm tạo điều kiện thuận lợi cho học sinh/ sinh viên/ giáo viên trong quá trình học tập, giảng dạy để tra cứu và xử lí các vấn đề liên quan đến phương trình hóa học, các chất hóa học.
  * Mô tả các thí nghiệm hóa học bằng hình ảnh.
@@ -32,10 +35,12 @@
  * Kèm theo đó là một diễn đàn về hóa học để các thành viên có thể trao đổi kinh nghiệm học tập và bài tập.
 
 ## Tính năng :
- * Tìm kiếm các phương trình hóa học.
  * Các hiện tượng, đặc điểm của thí nghiệm được mô tả một cách trực quan thông qua hình ảnh/ video.
+ * Tìm kiếm các phương trình hóa học.
  * Tìm kiếm thông tin của một chất nhất định.
  * Tự động cân bằng/ chỉnh sửa hệ số của phương trình được nhập vào.
+ * Tìm cách điều chế từ chất này qua chất khác.
+ * Phân biệt các chất được nhập vào ( nếu được ).
 
 ## Cách thực hiện :
  * Sử dụng nền tảng HTML\CSS, javascript để xây dựng giao diện trực quan.
